@@ -11,7 +11,7 @@ After testing on a handful of Engineers, SymbolFix has built up a diverse librar
 ## Installation
 1.	Download the file ‘SymbolFixVBA.xlam’
 2.	Open Excel
-3.	Enable SymbolFix add-in:
+3.	Enable the SymbolFix add-in:
     1.	Click the windows button
     2.	Click ‘Excel options’
     3.	Go to the ‘add-ins’ tab
