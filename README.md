@@ -10,16 +10,16 @@ After testing on a handful of Engineers at work, SymbolFix has built up a divers
 
 ## Installation
 1.	Download the file ‘SymbolFix.xlam’
-1.	Open Excel
-1.	Enable SymbolFix add-in:
-  1.	Click the windows button
-  1.	Click ‘Excel options’
-  1.	Go to the ‘add-ins’ tab
-  1.	Click ‘Go’ next to ‘manage Excel add-ins’
-  1.	Click ‘browse’ and then select the downloaded .xlam file
-  1.	Tick the check-box next to ‘SymbolFix’
-1. At this point you will need to close all open workbooks to enact the changes. 
-1. You're done. Now every time you open/create an Excel workbook, you should see the SymbolFix collection of macros on the 'home' tab:
+2.	Open Excel
+3.	Enable SymbolFix add-in:
+    1.	Click the windows button
+    2.	Click ‘Excel options’
+    3.	Go to the ‘add-ins’ tab
+    4.	Click ‘Go’ next to ‘manage Excel add-ins’
+    5.	Click ‘browse’ and then select the downloaded .xlam file
+    6.	Tick the check-box next to ‘SymbolFix’
+4. At this point you will need to close all open workbooks to enact the changes. 
+5. You're done. Now every time you open/create an Excel workbook, you should see the SymbolFix collection of macros on the 'home' tab:
 <img width="250" height="100" src="https://user-images.githubusercontent.com/22935783/42175493-7e2e495c-7e1d-11e8-9e5d-aa60395f2087.PNG">
 
 ## Usage
