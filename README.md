@@ -6,7 +6,7 @@ Back in 2015, my friend, colleague and flatmate James Kilcran came to me with a 
 
 So we both set about creating an Excel Add-in that would auto-format engineering symbols, SymbolFix. Subscripting, capitalising, correcting typos, creating greek letters, math symbols... SymbolFix does them all automatically! 
 
-After testing on a handful of Engineers at work, SymbolFix has built up a diverse library of symbols which it will auto-format. What's more, the add-in contains a user-form that allows users to add extra engineering symbols to the library. When a user adds a symbol, it automatically gets added to a list of 'pending symbols' (if consenting, via email), meaning that there is an ever growing library of useful symbols that SymbolFix can auto-format.
+After testing on a handful of Engineers, SymbolFix has built up a diverse library of symbols which it will auto-format. What's more, the add-in contains a user-form that allows users to add extra engineering symbols to the library. When a user adds a symbol, it automatically gets added to a list of 'pending symbols' (if consenting, via email), meaning that there is an ever growing library of useful symbols that SymbolFix can auto-format.
 
 ## Installation
 1.	Download the file ‘SymbolFixVBA.xlam’
@@ -23,7 +23,7 @@ After testing on a handful of Engineers at work, SymbolFix has built up a divers
 <img width="250" height="100" src="https://user-images.githubusercontent.com/22935783/42175493-7e2e495c-7e1d-11e8-9e5d-aa60395f2087.PNG">
 
 ## Usage
-* To auto-format symbols, simply highlight the cells required, and press the 'Apply to selection' macro.
+* To auto-format symbols, simply highlight the required cells, and press the 'Apply to selection' macro.
 
 * To check out which symbols are in the SymbolFix library, check out the file 'SymbolLibrary.xlsx'.
 
@@ -31,7 +31,7 @@ After testing on a handful of Engineers at work, SymbolFix has built up a divers
 
 <img width="600" height="400" src="https://user-images.githubusercontent.com/22935783/42175087-473c18ee-7e1c-11e8-8376-50cca78ebaf1.PNG">
 
-* To clear any actions made by SymbolFix on a selection of cells, click 'Clear SymbolFix'.
+* To clear any actions made by SymbolFix, highlight the required cells, and click 'Clear SymbolFix'.
 
 * If you have a symbol that's not in the SymbolFix library, click 'Custom Symbol' and follow the instructions to add it in.
 
