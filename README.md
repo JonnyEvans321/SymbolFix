@@ -9,7 +9,7 @@ So we both set about creating an Excel Add-in that would auto-format engineering
 After testing on a handful of Engineers at work, SymbolFix has built up a diverse library of symbols which it will auto-format. What's more, the add-in contains a user-form that allows users to add extra engineering symbols to the library. When a user adds a symbol, it automatically gets added to a list of 'pending symbols' (if consenting, via email), meaning that there is an ever growing library of useful symbols that SymbolFix can auto-format.
 
 ## Installation
-1.	Download the file ‘SymbolFix.xlam’
+1.	Download the file ‘SymbolFixVBA.xlam’
 2.	Open Excel
 3.	Enable SymbolFix add-in:
     1.	Click the windows button
@@ -25,11 +25,13 @@ After testing on a handful of Engineers at work, SymbolFix has built up a divers
 ## Usage
 * To auto-format symbols, simply highlight the cells required, and press the 'Apply to selection' macro.
 
+* To check out which symbols are in the SymbolFix library, check out the file 'SymbolLibrary.xlsx'.
+
 * To insert Greek letter or math symbols, use the following syntax before using the 'Apply to selection' macro (note this can be found in 'SymbolFix Settings' which is in the bottom right hand side of the group:
 
 <img width="600" height="400" src="https://user-images.githubusercontent.com/22935783/42175087-473c18ee-7e1c-11e8-8376-50cca78ebaf1.PNG">
 
-* To clear any actions made by SymbolFix on a selection of cells, click 'Clear SYmbolFix'.
+* To clear any actions made by SymbolFix on a selection of cells, click 'Clear SymbolFix'.
 
 * If you have a symbol that's not in the SymbolFix library, click 'Custom Symbol' and follow the instructions to add it in.
 
