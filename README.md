@@ -27,7 +27,7 @@ After testing on a handful of Engineers, SymbolFix has built up a diverse librar
 
 * To check out which symbols are in the SymbolFix library, check out the file 'SymbolLibrary.xlsx'.
 
-* To insert Greek letter or math symbols, use the following syntax before using the 'Apply to selection' macro (note this can be found in 'SymbolFix Settings' which is in the bottom right hand side of the group:
+* To insert Greek letter or math symbols, use the syntax below, then click 'Apply to selection' (note this can be found in 'SymbolFix Settings' which is in the bottom right hand side of the group).
 
 <img width="600" height="400" src="https://user-images.githubusercontent.com/22935783/42175087-473c18ee-7e1c-11e8-8376-50cca78ebaf1.PNG">
 
