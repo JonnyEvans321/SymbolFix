@@ -19,7 +19,8 @@ After testing on a handful of Engineers at work, SymbolFix has built up a divers
   1.	Click ‘browse’ and then select the downloaded .xlam file
   1.	Tick the check-box next to ‘SymbolFix’
 1. At this point you will need to close all open workbooks to enact the changes. 
-1. You're done. Now every time you open/create an Excel workbook, SymbolFix will be ready to use!
+1. You're done. Now every time you open/create an Excel workbook, you should see the SymbolFix collection of macros on the 'home' tab:
+<img width="250" height="100" src="https://user-images.githubusercontent.com/22935783/42175493-7e2e495c-7e1d-11e8-9e5d-aa60395f2087.PNG">
 
 ## Uninstall
 1. Click the windows button
