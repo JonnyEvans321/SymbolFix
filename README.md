@@ -30,6 +30,6 @@ After testing on a handful of Engineers at work, SymbolFix has built up a divers
   1.  Untick the check-box next to ‘SymbolFix’
 
 ## Usage
-To auto-format symbols, simply highlight the cells required, and press the SymbolFix macro.
-To undo any actions made by SymbolFix, click 'Undo'.
-If you have a symbol that's not in the SymbolFix library, open the userform and follow the instructions to add it in.
+* To auto-format symbols, simply highlight the cells required, and press the SymbolFix macro.
+* To undo any actions made by SymbolFix, click 'Undo'.
+* If you have a symbol that's not in the SymbolFix library, open the userform and follow the instructions to add it in.
