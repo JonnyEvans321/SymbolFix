@@ -33,3 +33,6 @@ After testing on a handful of Engineers at work, SymbolFix has built up a divers
 * To auto-format symbols, simply highlight the cells required, and press the SymbolFix macro.
 * To undo any actions made by SymbolFix, click 'Undo'.
 * If you have a symbol that's not in the SymbolFix library, open the userform and follow the instructions to add it in.
+
+![shortcuts](https://user-images.githubusercontent.com/22935783/42175087-473c18ee-7e1c-11e8-8376-50cca78ebaf1.PNG)
+
