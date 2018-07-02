@@ -19,13 +19,13 @@ After testing on a handful of Engineers at work, SymbolFix has built up a divers
     5.	Click ‘browse’ and then select the downloaded .xlam file
     6.	Tick the check-box next to ‘SymbolFix’
 4. At this point you will need to close all open workbooks to enact the changes. 
-5. You're done. Now every time you open/create an Excel workbook, you should see the SymbolFix collection of macros on the 'home' tab:
+5. You're done. Now every time you open/create an Excel workbook, you should see the SymbolFix group in the 'home' tab:
 <img width="250" height="100" src="https://user-images.githubusercontent.com/22935783/42175493-7e2e495c-7e1d-11e8-9e5d-aa60395f2087.PNG">
 
 ## Usage
 * To auto-format symbols, simply highlight the cells required, and press the 'Apply to selection' macro.
 
-* To insert Greek letter or math symbols, use the following syntax before using the 'Apply to selection' macro:
+* To insert Greek letter or math symbols, use the following syntax before using the 'Apply to selection' macro (note this can be found in 'SymbolFix Settings' which is in the bottom right hand side of the group:
 
 <img width="600" height="400" src="https://user-images.githubusercontent.com/22935783/42175087-473c18ee-7e1c-11e8-8376-50cca78ebaf1.PNG">
 
