@@ -1,5 +1,5 @@
 # SymbolFix
-An Excel Add-in that uses VBA to auto-format engineering symbols.
+An Excel Add-in that uses VBA to auto-format engineering symbols. Requires Excel 2010 or later.
 
 ## Backstory
 Back in 2015, my flatmate James Kilcran came to me with a problem. As a Mechanical Engineer, he would spend a lot of time creating detailed, well presented engineering models in Excel for clients and colleagues. A major hassle in this job was formatting all the engineering symbols. Something that Excel does not do very well.
