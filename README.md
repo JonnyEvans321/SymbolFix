@@ -34,7 +34,8 @@ After testing on a handful of Engineers at work, SymbolFix has built up a divers
 
 * To insert Greek letter or math symbols, use the following syntax:
 
-![shortcuts](https://user-images.githubusercontent.com/22935783/42175087-473c18ee-7e1c-11e8-8376-50cca78ebaf1.PNG =250x250)
+
+<img width="600" height="400" src="https://user-images.githubusercontent.com/22935783/42175087-473c18ee-7e1c-11e8-8376-50cca78ebaf1.PNG">
 
 * To undo any actions made by SymbolFix, click 'Undo'.
 
