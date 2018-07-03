@@ -11,15 +11,15 @@ So we set about creating an Excel Add-in that would auto-format engineering symb
 After testing on a handful of Engineers, SymbolFix has built up a diverse library of symbols and units which it will auto-format. What's more, SymbolFix gives users the option to add extra symbols/units to the library.
 
 ## Installation
-1.	Download the file ‘SymbolFixVBA.xlam’
+1.	Download and extract the file ‘SymbolFix.zip’
 2.	Open Excel
 3.	Enable the SymbolFix add-in:
     1.	Click the windows button
     2.	Click ‘Excel options’
     3.	Go to the ‘add-ins’ tab
     4.	Click ‘Go’ next to ‘manage Excel add-ins’
-    5.	Click ‘browse’ and then select the downloaded .xlam file
-    6.	Tick the check-box next to ‘SymbolFix’
+    5.	Click ‘browse’ and then select the downloaded 'SymbolFixVBA.xlam' file
+    6.	Tick the check-box next to ‘Symbolfixvba’
 4. At this point you will need to close all open workbooks to enact the changes. 
 5. You're done. Now every time you open/create an Excel workbook, you should see the SymbolFix group in the 'home' tab:
 <img width="250" height="100" src="https://user-images.githubusercontent.com/22935783/42175493-7e2e495c-7e1d-11e8-9e5d-aa60395f2087.PNG">
@@ -40,8 +40,7 @@ After testing on a handful of Engineers, SymbolFix has built up a diverse librar
 ## Uninstall
 1. Click the windows button
 1. Click ‘Excel options’
-  1.	Go to the ‘add-ins’ tab
-  1.	Click ‘Go’ next to ‘manage Excel add-ins’
-  1.	Click ‘browse’ and then select the downloaded .xlam file
-  1.  Untick the check-box next to ‘SymbolFix’
+   1.	Go to the ‘add-ins’ tab
+   1.	Click ‘Go’ next to ‘manage Excel add-ins’
+   1.   Untick the check-box next to ‘SymbolFix’
 
