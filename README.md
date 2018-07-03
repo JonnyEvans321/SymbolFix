@@ -11,7 +11,7 @@ So we set about creating an Excel Add-in that would auto-format engineering symb
 After testing on a handful of Engineers, SymbolFix has built up a diverse library of symbols and units which it will auto-format. What's more, SymbolFix gives users the option to add extra symbols/units to the library.
 
 ## Installation
-1.	Download and extract the file ‘SymbolFix.zip’
+1.	Download and extract the ‘SymbolFix.zip’ file
 2.	Open Excel
 3.	Enable the SymbolFix add-in:
     1.	Click the windows button
