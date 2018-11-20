@@ -13,7 +13,7 @@ After testing on a handful of Engineers, SymbolFix has built up a diverse librar
 ## Installation
 1.	Download and extract the ‘SymbolFix.zip’ file
 2.	Open Excel
-3.	Enable the SymbolFix add-in:
+3.	To Enable the SymbolFix add-in:
     1.	Click the windows button
     2.	Click ‘Excel options’
     3.	Go to the ‘add-ins’ tab
